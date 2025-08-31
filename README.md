@@ -30,36 +30,36 @@ The ls command is used to display a list of content of a directory.
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
-```
+<br>
 <img width="523" height="65" alt="2" src="https://github.com/user-attachments/assets/ab91242d-ed40-4769-9ac4-0306766401ed" />
-```
+<br>
  
 ### 3)	mkdir Command
 
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
-```
+<br>
 <img width="296" height="47" alt="3" src="https://github.com/user-attachments/assets/f0807f57-dea0-4261-819b-08a6f63e57e8" />
-```
+<br>
 
 ### 4)	rmdir Command
 
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
-```
+<br>
 <img width="558" height="48" alt="4" src="https://github.com/user-attachments/assets/b059285c-b9d6-4bfa-a69a-1c272d98c8c3" />
-```
+<br>
 
 ### 5)	cd Command
 
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
-```
+<br>
 <img width="612" height="53" alt="5" src="https://github.com/user-attachments/assets/888ee8f3-f1f0-4a44-9bee-df97a49fdde8" />
-```
+<br>
 
 ### 6)	cat Command
 
