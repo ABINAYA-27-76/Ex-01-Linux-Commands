@@ -22,11 +22,9 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
- ```
+ <br>
 <img width="703" height="74" alt="1" src="https://github.com/user-attachments/assets/74a3ff90-490c-48ed-9be9-140ad88bff23" />
-
-```
-
+<br>
 ### 2)	pwd Command
 
 The pwd command is used to display the location of the current working directory.
